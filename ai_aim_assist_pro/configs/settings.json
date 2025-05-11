@@ -1,0 +1,17 @@
+{
+  "aim_assist_enabled": false,
+  "smoothness": 0.5,
+  "fov": 90,
+  "delay": 100,
+  "model": "yolov8n.onnx",
+  "hotkeys": {
+    "toggle_aim_assist": "F9",
+    "lock_target": "F10"
+  },
+  "profiles": {
+    "default": {
+      "game": "generic",
+      "settings": {}
+    }
+  }
+}
